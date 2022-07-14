@@ -1,4 +1,3 @@
-import string
 from random import randint
 
 valid_lets = "a b c d e f g h i j"
